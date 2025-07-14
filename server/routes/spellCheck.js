@@ -50,5 +50,4 @@ spellChecker.post("/", async (req, res) => {
     res.status(500).json({ error: "Spellcheck failed." });
   }
 });
-
 module.exports = spellChecker;

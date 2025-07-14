@@ -80,5 +80,4 @@ const FeatureCard = ({ icon, title, description }) => (
     <p className="text-gray-600">{description}</p>
   </div>
 );
-
 export default About;

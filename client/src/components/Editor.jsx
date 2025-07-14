@@ -184,5 +184,4 @@ const ResultSection = ({ title, text, onAccept, icon }) =>
       </Button>
     </div>
   );
-
 export default Editor;
